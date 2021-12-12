@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/basic-banking-system/static/css/main.eddf58c4.chunk.css",
+    "main.js": "/basic-banking-system/static/js/main.db891f64.chunk.js",
+    "main.js.map": "/basic-banking-system/static/js/main.db891f64.chunk.js.map",
+    "runtime-main.js": "/basic-banking-system/static/js/runtime-main.b92b5372.js",
+    "runtime-main.js.map": "/basic-banking-system/static/js/runtime-main.b92b5372.js.map",
+    "static/js/2.56dc5e7a.chunk.js": "/basic-banking-system/static/js/2.56dc5e7a.chunk.js",
+    "static/js/2.56dc5e7a.chunk.js.map": "/basic-banking-system/static/js/2.56dc5e7a.chunk.js.map",
+    "static/js/3.f8efe739.chunk.js": "/basic-banking-system/static/js/3.f8efe739.chunk.js",
+    "static/js/3.f8efe739.chunk.js.map": "/basic-banking-system/static/js/3.f8efe739.chunk.js.map",
+    "index.html": "/basic-banking-system/index.html",
+    "static/css/main.eddf58c4.chunk.css.map": "/basic-banking-system/static/css/main.eddf58c4.chunk.css.map",
+    "static/js/2.56dc5e7a.chunk.js.LICENSE.txt": "/basic-banking-system/static/js/2.56dc5e7a.chunk.js.LICENSE.txt",
+    "static/media/view.css": "/basic-banking-system/static/media/bank.571ce743.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92b5372.js",
+    "static/js/2.56dc5e7a.chunk.js",
+    "static/css/main.eddf58c4.chunk.css",
+    "static/js/main.db891f64.chunk.js"
+  ]
+}

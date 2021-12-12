@@ -1,3 +1,5 @@
+# Since the backend data is stored in the local system, it is not visible in the published website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
